@@ -1,11 +1,6 @@
 # flutter_listview_child_visibility_monitor
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This is the demo repo for https://loveky.github.io/2018/07/13/flutter-listview-child-visibility-monitor/
 
 ## Screenshot
 
